@@ -3,9 +3,9 @@
 **AEP — Engenharia de Software / Análise e Desenvolvimento de Sistemas — Unicesumar — 2º semestre de 2026**
 
 **Integrantes**
-- Felipe Oliveira Santos Febraio — RA 26005886-2
-- João Vitor Guedes dos Santos — RA 26006557-2
-- Kenzo Yasunaka Borges — RA 26014548-2
+- Felipe Oliveira Santos Febraio
+- João Vitor Guedes dos Santos 
+- Kenzo Yasunaka Borges
 
 ## Sobre o projeto
 
